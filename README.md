@@ -30,7 +30,7 @@ npm run start
 License
 =======
 
-Copyright 2018-2021 Simplicit&eacute; Software
+Copyright 2018-2024 Simplicit&eacute; Software
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
