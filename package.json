@@ -13,8 +13,8 @@
     "unirest": "0.6.0"
   },
   "devDependencies": {
-    "eslint": "9.39.1",
-    "npm-check-updates": "19.1.2"
+    "eslint": "9.39.2",
+    "npm-check-updates": "19.2.0"
   },
   "scripts": {
     "lint": "eslint *.js *.mjs",
