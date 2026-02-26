@@ -18,6 +18,9 @@
     "globals": "17.3.0",
     "npm-check-updates": "19.5.0"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "lint": "eslint *.js *.mjs",
     "start": "node app.js",
