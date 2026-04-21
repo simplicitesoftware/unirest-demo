@@ -14,9 +14,9 @@
   },
   "devDependencies": {
     "@eslint/js": "10.0.1",
-    "eslint": "10.0.2",
-    "globals": "17.3.0",
-    "npm-check-updates": "19.5.0"
+    "eslint": "10.2.1",
+    "globals": "17.5.0",
+    "npm-check-updates": "21.0.3"
   },
   "engines": {
     "node": ">=18"
